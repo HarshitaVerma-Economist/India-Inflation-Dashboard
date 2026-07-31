@@ -1,0 +1,7 @@
+ Package  Purpose
+ 
+ pandas   data cleaning & analysis 
+ numpy    numerical calculations 
+ plotly   interactive dashboard graphs 
+ openpyxl Reading Excel CPI file 
+ jupyter  Running notebooks 

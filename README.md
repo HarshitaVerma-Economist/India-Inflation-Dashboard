@@ -1,1 +1,1 @@
-
+# India Rural Inflation Dashboard 📊
